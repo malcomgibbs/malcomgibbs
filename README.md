@@ -16,11 +16,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="OMGibbs | X/Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Malcom Gibbs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="center">
+  <a href="https://www.linkedin.com/in/Malcom-Gibbs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/OMGibbs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-[twitter]: https://twitter.com/omgibbs
-[linkedin]: https://linkedin.com/in/Malcom-Gibbs
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
